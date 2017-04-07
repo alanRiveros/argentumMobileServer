@@ -1,0 +1,13 @@
+;Archivo: worldBackup/Mapa36.dat
+;Ultima modificacion: 02/06/2007 12:04:16
+
+[MAPA36]
+BACKUP=1
+MUSICNUM=3-1
+NAME=Sur Oeste Ulla
+PK=0
+RESTRINGIR=No
+STARTPOS=45-45-45
+TERRENO=BOSQUE
+ZONA=CAMPO
+

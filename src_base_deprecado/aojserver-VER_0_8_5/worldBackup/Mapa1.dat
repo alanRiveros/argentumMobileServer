@@ -1,0 +1,13 @@
+;Archivo: worldBackup/Mapa1.dat
+;Ultima modificacion: 02/06/2007 12:04:15
+
+[MAPA1]
+BACKUP=1
+MUSICNUM=4-1
+NAME=Ullathorpe
+PK=1
+RESTRINGIR=No
+STARTPOS=1-45-45
+TERRENO=BOSQUE
+ZONA=CAMPO
+

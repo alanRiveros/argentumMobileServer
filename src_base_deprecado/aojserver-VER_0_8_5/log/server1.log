@@ -1,0 +1,7 @@
+INFO;2007/06/02-11:58:24-0300;org.ArgentumOnline.server.util.Log;start;Server logger started
+INFO;2007/06/02-11:58:24-0300;org.ArgentumOnline.server.AojServer;main;Arrancando usando el backup
+WARNING;2007/06/02-11:58:24-0300;org.ArgentumOnline.server.ObjectInfo;load;<<<<< ADVERTENCIA EN this.DAT >>>>
+WARNING;2007/06/02-11:58:24-0300;org.ArgentumOnline.server.ObjectInfo;load;i=380 seccion=OBJ380
+WARNING;2007/06/02-11:58:24-0300;org.ArgentumOnline.server.ObjectInfo;load;Obj nombre=
+WARNING;2007/06/02-11:58:24-0300;org.ArgentumOnline.server.ObjectInfo;load;Obj m_body=
+WARNING;2007/06/02-11:58:24-0300;org.ArgentumOnline.server.ObjectInfo;load;Obj grhIndex=0

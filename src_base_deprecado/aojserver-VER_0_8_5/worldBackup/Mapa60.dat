@@ -1,0 +1,13 @@
+;Archivo: worldBackup/Mapa60.dat
+;Ultima modificacion: 02/06/2007 12:04:16
+
+[MAPA60]
+BACKUP=1
+MUSICNUM=12-1
+NAME=Banderbill norte
+PK=1
+RESTRINGIR=No
+STARTPOS=45-45-45
+TERRENO=BOSQUE
+ZONA=CIUDAD
+

@@ -1,0 +1,13 @@
+;Archivo: worldBackup/Mapa64.dat
+;Ultima modificacion: 02/06/2007 12:04:17
+
+[MAPA64]
+BACKUP=1
+MUSICNUM=16-1
+NAME=Lindos Este
+PK=1
+RESTRINGIR=No
+STARTPOS=1-45-45
+TERRENO=BOSQUE
+ZONA=CAMPO
+

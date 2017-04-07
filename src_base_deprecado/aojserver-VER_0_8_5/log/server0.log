@@ -1,0 +1,56 @@
+INFO;2007/06/02-11:58:56-0300;org.ArgentumOnline.server.util.Log;start;Server logger started
+INFO;2007/06/02-11:58:56-0300;org.ArgentumOnline.server.AojServer;main;Arrancando sin usar backup
+WARNING;2007/06/02-11:58:56-0300;org.ArgentumOnline.server.ObjectInfo;load;<<<<< ADVERTENCIA EN this.DAT >>>>
+WARNING;2007/06/02-11:58:56-0300;org.ArgentumOnline.server.ObjectInfo;load;i=380 seccion=OBJ380
+WARNING;2007/06/02-11:58:56-0300;org.ArgentumOnline.server.ObjectInfo;load;Obj nombre=
+WARNING;2007/06/02-11:58:56-0300;org.ArgentumOnline.server.ObjectInfo;load;Obj m_body=
+WARNING;2007/06/02-11:58:56-0300;org.ArgentumOnline.server.ObjectInfo;load;Obj grhIndex=0
+WARNING;2007/06/02-11:59:23-0300;org.ArgentumOnline.server.Map;load;Archivo de mapa 81 faltante.
+WARNING;2007/06/02-11:59:23-0300;org.ArgentumOnline.server.Map;load;Archivo de mapa 82 faltante.
+WARNING;2007/06/02-11:59:23-0300;org.ArgentumOnline.server.Map;load;Archivo de mapa 83 faltante.
+WARNING;2007/06/02-11:59:24-0300;org.ArgentumOnline.server.Map;load;Archivo de mapa 84 faltante.
+WARNING;2007/06/02-11:59:24-0300;org.ArgentumOnline.server.Map;load;Archivo de mapa 85 faltante.
+WARNING;2007/06/02-11:59:28-0300;org.ArgentumOnline.server.Map;load;Archivo de mapa 117 faltante.
+WARNING;2007/06/02-11:59:28-0300;org.ArgentumOnline.server.Map;load;Archivo de mapa 118 faltante.
+WARNING;2007/06/02-11:59:28-0300;org.ArgentumOnline.server.Map;load;Archivo de mapa 119 faltante.
+INFO;2007/06/02-11:59:41-0300;org.ArgentumOnline.server.AojServer;initServerSocket;Escuchando en el puerto 7666
+INFO;2007/06/02-12:00:09-0300;org.ArgentumOnline.server.Client;<init>; conectado desde 192.168.0.1
+INFO;2007/06/02-12:00:41-0300;org.ArgentumOnline.server.AojServer;autoSaveTimer;Usuarios en linea: 0
+INFO;2007/06/02-12:01:19-0300;org.ArgentumOnline.server.Client;connectUser;TEST conectado.
+INFO;2007/06/02-12:01:41-0300;org.ArgentumOnline.server.Client;doSALIR;TEST: Hasta la vista, baby!
+INFO;2007/06/02-12:01:41-0300;org.ArgentumOnline.server.AojServer;autoSaveTimer;Usuarios en linea: 0
+INFO;2007/06/02-12:01:45-0300;org.ArgentumOnline.server.Client;<init>; conectado desde 192.168.0.1
+INFO;2007/06/02-12:01:45-0300;org.ArgentumOnline.server.Client;connectUser;test conectado.
+INFO;2007/06/02-12:01:50-0300;org.ArgentumOnline.server.Client;doSALIR;test: Hasta la vista, baby!
+INFO;2007/06/02-12:02:41-0300;org.ArgentumOnline.server.AojServer;autoSaveTimer;Usuarios en linea: 0
+INFO;2007/06/02-12:03:08-0300;org.ArgentumOnline.server.Client;<init>; conectado desde 192.168.0.1
+INFO;2007/06/02-12:03:41-0300;org.ArgentumOnline.server.AojServer;autoSaveTimer;Usuarios en linea: 0
+INFO;2007/06/02-12:03:59-0300;org.ArgentumOnline.server.Client;connectUser;GORLOK conectado.
+INFO;2007/06/02-12:04:15-0300;org.ArgentumOnline.server.Client;doApagar;SERVIDOR APAGADO POR GORLOK
+INFO;2007/06/02-12:04:15-0300;org.ArgentumOnline.server.Map;saveInfFile;Guardando mapa: worldBackup/Mapa1.inf
+INFO;2007/06/02-12:04:15-0300;org.ArgentumOnline.server.Map;saveMapFile;Guardando mapa: worldBackup/Mapa1.map
+INFO;2007/06/02-12:04:15-0300;org.ArgentumOnline.server.util.Feedback;step;Mapa 1 (1/8)
+INFO;2007/06/02-12:04:15-0300;org.ArgentumOnline.server.Map;saveInfFile;Guardando mapa: worldBackup/Mapa34.inf
+INFO;2007/06/02-12:04:15-0300;org.ArgentumOnline.server.Map;saveMapFile;Guardando mapa: worldBackup/Mapa34.map
+INFO;2007/06/02-12:04:15-0300;org.ArgentumOnline.server.util.Feedback;step;Mapa 2 (2/8)
+INFO;2007/06/02-12:04:15-0300;org.ArgentumOnline.server.Map;saveInfFile;Guardando mapa: worldBackup/Mapa36.inf
+INFO;2007/06/02-12:04:15-0300;org.ArgentumOnline.server.Map;saveMapFile;Guardando mapa: worldBackup/Mapa36.map
+INFO;2007/06/02-12:04:16-0300;org.ArgentumOnline.server.util.Feedback;step;Mapa 3 (3/8)
+INFO;2007/06/02-12:04:16-0300;org.ArgentumOnline.server.Map;saveInfFile;Guardando mapa: worldBackup/Mapa59.inf
+INFO;2007/06/02-12:04:16-0300;org.ArgentumOnline.server.Map;saveMapFile;Guardando mapa: worldBackup/Mapa59.map
+INFO;2007/06/02-12:04:16-0300;org.ArgentumOnline.server.util.Feedback;step;Mapa 4 (4/8)
+INFO;2007/06/02-12:04:16-0300;org.ArgentumOnline.server.Map;saveInfFile;Guardando mapa: worldBackup/Mapa60.inf
+INFO;2007/06/02-12:04:16-0300;org.ArgentumOnline.server.Map;saveMapFile;Guardando mapa: worldBackup/Mapa60.map
+INFO;2007/06/02-12:04:16-0300;org.ArgentumOnline.server.util.Feedback;step;Mapa 5 (5/8)
+INFO;2007/06/02-12:04:16-0300;org.ArgentumOnline.server.Map;saveInfFile;Guardando mapa: worldBackup/Mapa62.inf
+INFO;2007/06/02-12:04:16-0300;org.ArgentumOnline.server.Map;saveMapFile;Guardando mapa: worldBackup/Mapa62.map
+INFO;2007/06/02-12:04:16-0300;org.ArgentumOnline.server.util.Feedback;step;Mapa 6 (6/8)
+INFO;2007/06/02-12:04:16-0300;org.ArgentumOnline.server.Map;saveInfFile;Guardando mapa: worldBackup/Mapa63.inf
+INFO;2007/06/02-12:04:16-0300;org.ArgentumOnline.server.Map;saveMapFile;Guardando mapa: worldBackup/Mapa63.map
+INFO;2007/06/02-12:04:16-0300;org.ArgentumOnline.server.util.Feedback;step;Mapa 7 (7/8)
+INFO;2007/06/02-12:04:16-0300;org.ArgentumOnline.server.Map;saveInfFile;Guardando mapa: worldBackup/Mapa64.inf
+INFO;2007/06/02-12:04:16-0300;org.ArgentumOnline.server.Map;saveMapFile;Guardando mapa: worldBackup/Mapa64.map
+INFO;2007/06/02-12:04:17-0300;org.ArgentumOnline.server.util.Feedback;step;Mapa 8 (8/8)
+INFO;2007/06/02-12:04:17-0300;org.ArgentumOnline.server.AojServer;doBackup;Backup completado con exito
+INFO;2007/06/02-12:04:17-0300;org.ArgentumOnline.server.AojServer;run;Server apagado
+INFO;2007/06/02-12:04:17-0300;org.ArgentumOnline.server.util.Log;stop;Server logger stoped
